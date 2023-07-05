@@ -43,6 +43,8 @@ As you can see the file has been succesfully deleted:
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/5b525002-428b-48e7-8f4d-d25a3955c10a)
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/ea7d6e9c-9621-43cb-9580-756f9db0cd40)
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/197ad1cd-d5d9-41f0-8c92-aa5e4c59b683)
+![Screenshot 2023-07-05 131159](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/1133c620-eb7a-4a8f-8c06-0bf7d0423373)
+![Screenshot 2023-07-05 131245](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/d2fed92e-b72a-4202-b534-d8cd99162f28)
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/3ae27ef7-c8f1-4509-a399-a88cde88fcfc)
 
 
