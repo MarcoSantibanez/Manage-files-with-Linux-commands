@@ -23,7 +23,7 @@ In this project we were tasked managing files with Linux commands.
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/b771177d-1c00-493f-8be4-286039ec4017)
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/d5d9a765-dc5f-4374-bf36-a933c71ef4d4)
 
-°Next we were tasked with remove a file that was no loger needed: 
+°Next we were tasked with removing a file that was no loger needed: 
 
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/a36cba8f-b6b5-42b5-8096-d88b2879592e)
 ![image](https://github.com/MarcoSantibanez/Manage-files-with-Linux-commands/assets/138132151/25b5d45b-44a3-4ece-b1ff-24903e529454)
